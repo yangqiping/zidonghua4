@@ -1,0 +1,23 @@
+{
+  "name": "zidonghua4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangqiping/zidonghua4.git"
+  },
+  "keywords": [],
+  "author": "yangqiping",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangqiping/zidonghua4/issues"
+  },
+  "homepage": "https://github.com/yangqiping/zidonghua4#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
